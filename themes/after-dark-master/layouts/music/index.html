@@ -1,3 +1,6 @@
+{{ define "title" -}}
+  {{ .Site.Title }}
+{{- end }}
 {{ define "header" }}
   {{ partial "menu.html" . }}
 {{ end }}
@@ -5,8 +8,8 @@
   <header>
     <h1>{{ .Title }}</h1>
   </header>
-  {{ range .Paginator.Pages }}
-    {{ partial "music-summary.html" . }}
+  {{ range (.Paginate (where .Data.Pages "Type" "music")).Pages }}
+    {{ partial "page-summary.html" . }}
   {{ end }}
 {{ end }}
 {{ define "footer" }}

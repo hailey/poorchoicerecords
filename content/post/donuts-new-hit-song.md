@@ -3,7 +3,7 @@ title: "Donuts Number One Hit Song"
 date: 2018-01-13T16:34:39-08:00
 draft: false
 author: "The Management"
-type: post
+type: 'post'
 ---
 
 Check out our brand new band Friends of Nothing's new song Donuts! They're new to the Poor Choice label

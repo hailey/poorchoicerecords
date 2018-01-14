@@ -10,5 +10,3 @@ think they do, but I wonder?)
 
 The new site is slowly getting put together. Until then I will just post about all the cool equipment we dont have and
 upcoming material teasers.
-
-![TR 808](http://poor-choice.com/808.jpg)
