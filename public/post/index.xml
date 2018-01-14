@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Poor Choice Records</title>
+    <link>https://poor-choice.com/post/</link>
+    <description>Recent content in Posts on Poor Choice Records</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 04:00:37 -0800</lastBuildDate>
+    
+	<atom:link href="https://poor-choice.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New Website First Post</title>
+      <link>https://poor-choice.com/post/newwebsite-first-post/</link>
+      <pubDate>Mon, 01 Jan 2018 04:00:37 -0800</pubDate>
+      
+      <guid>https://poor-choice.com/post/newwebsite-first-post/</guid>
+      <description>Poor Choice Records is a label for the real down to earth musician. Do you got a song in your soul and need to get it out and its so strange that no one in their right mind would understand? We understand. Our Listeners understand. (Or they think they do, but I wonder?)
+The new site is slowly getting put together. Until then I will just post about all the cool equipment we dont have and upcoming material teasers.</description>
+    </item>
+    
+  </channel>
+</rss>

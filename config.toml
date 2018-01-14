@@ -1,0 +1,24 @@
+baseURL = "https://poor-choice.com/"
+languageCode = "en-us"
+title = "Poor Choice Records"
+author = "The Management"
+layout = "after-dark-master"
+
+[[menu.main]]
+  name = "Home"
+  weight = 1
+  identifier = "home"
+  url = "/"
+  
+[[menu.main]]
+  name = "Musics"
+  weight = 2
+  identifier = "music"
+  url = "/music/"
+
+[[menu.main]]
+  name = "About"
+  weight = 2
+  identifier = "about"
+  url = "/about/"
+  
