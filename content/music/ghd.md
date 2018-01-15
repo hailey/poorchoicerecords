@@ -2,6 +2,7 @@
 title: "Glory Hole Dinosaurs"
 date: 2018-01-06T22:19:07-08:00
 draft: false
+type: "music"
 ---
 
 Since early 2014, GHD has been impressing audiences accross the nation. The best kept secrert in underground music
