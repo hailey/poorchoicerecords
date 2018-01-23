@@ -5,6 +5,7 @@ draft: false
 author: "The Management"
 type: "post"
 tags: ["release","single","friends of nothing","songs"]
+category: ["posts","youtube"]
 ---
 
 Check out our brand new band Friends of Nothing's new song Donuts! They're new to the Poor Choice label

@@ -32,4 +32,7 @@ The list goes on but really all you need to remember is...
 ## For Artists
 ### We're your friends in low places.
 If you're an artist and no one in their right mind will publish you... give us a shot. Your best case scenario is it gets put on usenet and goes viral and everyone listens to your song.
+
 We dont let pirating stop you from being famous.
+
+If you still are interested, click [here]({{< ref "post/submit-your-content.md" >}}).

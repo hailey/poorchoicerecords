@@ -2,6 +2,7 @@
 title: "Submit Your Music / Content / Art"
 date: 2018-01-14T20:24:13-08:00
 draft: false
+tags: ['demo','submit']
 ---
 
 Here at [Poor Choice Records](http://poor-choice.com) we are always looking for poor talent.
