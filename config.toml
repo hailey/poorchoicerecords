@@ -4,6 +4,11 @@ title = "Poor Choice Records"
 author = "The Management"
 layout = "after-dark-master"
 
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  band = "bands"
+
 [[menu.main]]
   name = "Home"
   weight = 1
@@ -11,8 +16,14 @@ layout = "after-dark-master"
   url = "/"
   
 [[menu.main]]
-  name = "Musics"
+  name = "Bands"
   weight = 2
+  identifier = "band"
+  url = "/band/"
+  
+[[menu.main]]
+  name = "Musics"
+  weight = 4
   identifier = "music"
   url = "/music/"
 
@@ -22,3 +33,31 @@ layout = "after-dark-master"
   identifier = "about"
   url = "/about/"
   
+[related]
+# Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
+ threshold = 50
+# To get stable "See also" sections we, by default, exclude newer related pages.
+ includeNewer = true
+# Will lower case keywords in both queries and in the indexes.
+ toLower = false
+
+
+[[related.indices]]
+name  = "band"
+toLower = true
+weight = 60
+
+[[related.indices]]
+name  = "album"
+toLower = true
+weight = 50
+
+[[related.indices]]
+name  = "tags"
+toLower = true
+weight = 30
+
+[[related.indices]]
+name  = "author"
+toLower = true
+weight = 10

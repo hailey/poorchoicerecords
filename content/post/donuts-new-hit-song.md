@@ -4,7 +4,8 @@ date: 2018-01-13T16:34:39-08:00
 draft: false
 author: "The Management"
 type: "post"
-tags: ["release","single","friends of nothing","songs"]
+band: "Friends of Nothing"
+tags: ["release","single","friends of nothing"]
 category: ["posts","youtube"]
 ---
 

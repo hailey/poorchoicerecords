@@ -1,4 +1,4 @@
-{{ $num_to_show := .Site.Params.related_content_limit | default 7 }}
+{{ $num_to_show := .Site.Params.related_content_limit | default 5}}
 {{ $related := .Site.RegularPages.Related . | first $num_to_show }}
 {{ with $related }}
   <aside>
@@ -6,7 +6,6 @@
     <ul>
       {{ range . }}
         <li><a href="{{ .RelPermalink }}">{{ .Title }}</a>
-        <time datetime="{{ .ReadingTime }}M">{{ .ReadingTime }} minutes</time>
       {{ end }}
     </ul>
   </aside>
