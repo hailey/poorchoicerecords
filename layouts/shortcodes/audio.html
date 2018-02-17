@@ -1,0 +1,16 @@
+<figure class="audioplayer">
+    {{ if .Get "band"}}
+        By: <strong>{{.Get "band"}}</strong><br />
+    {{end}}
+    {{ with .Get "name"}}
+    Title: <strong>{{.}}</strong><br />
+    {{end}}
+    <audio controls>
+        <source src="{{ .Get "src" }}">
+            Your browser does not seem to support the audio tag... hrm!
+    </audio>
+    {{ if .Get "name"}}
+    <br />
+    <div class="download-link">Download: <a href="{{.Get "src" }}">{{.Get "name"}}</a></div>
+    {{end}}
+</figure>

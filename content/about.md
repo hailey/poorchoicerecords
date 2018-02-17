@@ -11,7 +11,7 @@ Poor Choice Records was founded years ago with the goal of producing music for t
 ## Our Mission Statement
 To get mad bitches and mad hoes, stack paper, play with firearms and make noise.
 
-![recorder](https://poor-choice.com/tascam.jpg)
+![recorder](/tascam.jpg)
 
 We specialize in music to do the following.
 
@@ -35,4 +35,4 @@ If you're an artist and no one in their right mind will publish you... give us a
 
 We dont let pirating stop you from being famous.
 
-If you still are interested, click [here]({{< ref "post/submit-your-content.md" >}}).
+If you still are interested, click [here]({{< relref "post/submit-your-content.md" >}}).

@@ -10,11 +10,18 @@ categories: ["fpb","gloryhole gape","preview"]
 album: "Gloryhole Gape"
 
 ---
-**Something in my nose** is a brisk 1 minute rage. This is part of the upcoming album **Gloryhole Gape** which
+**Something in my nose** is a brisk 1 minute rage. This is part of the upcoming album [Gloryhole Gape]({{< relref "/album/gloryhole-gape.md" >}}) which
 should be ready sometime in the spring. Stay tuned, and keep posted for tour dates.
+
+{{<audio
+    src="/downloads/fueled-by-pornography/something-in-my-nose.mp3"
+    name="Something in my Nose"
+    band="Fueled by Pornography"
+    >}}
+
 ### Downloads
 
-* [something-in-my-nose.mp3](https://poor-choice.com/downloads/fueled-by-pornography/something-in-my-nose.mp3)
-* [something-in-my-nose.flac](https://poor-choice.com/downloads/fueled-by-pornography/something-in-my-nose.flac)
-* [something-in-my-nose.wav](https://poor-choice.com/downloads/fueled-by-pornography/something-in-my-nose.wav)
-* [something-in-my-nose.aif](https://poor-choice.com/downloads/fueled-by-pornography/something-in-my-nose.aif)
+* [something-in-my-nose.mp3](/downloads/fueled-by-pornography/something-in-my-nose.mp3)
+* [something-in-my-nose.flac](/downloads/fueled-by-pornography/something-in-my-nose.flac)
+* [something-in-my-nose.wav](/downloads/fueled-by-pornography/something-in-my-nose.wav)
+* [something-in-my-nose.aif](/downloads/fueled-by-pornography/something-in-my-nose.aif)

@@ -10,12 +10,17 @@ categories: ["fpb","gloryhole gape","preview"]
 album: "Gloryhole Gape"
 
 ---
-Check out **[Tweaking with Grandma](https://poor-choice.com/downloads/fueled-by-pornography/tweaking-with-grandma.mp3)** by [Fueled by Pornography](/band/fueled-by-pornography/) from
-their upoming album **Gloryhole Gape**.
+Check out **[Tweaking with Grandma](/downloads/fueled-by-pornography/tweaking-with-grandma.mp3)** by [Fueled by Pornography](/band/fueled-by-pornography/) from
+their upoming album [Gloryhole Gape]({{< relref "/album/gloryhole-gape.md" >}}).
 
+{{<audio
+    src="/downloads/fueled-by-pornography/tweaking-with-grandma.mp3"
+    name="Tweaking with Grandma"
+    band="Fueled by Pornography"
+    >}}
 
 ### Downloads
 
-* [tweaking-with-grandma.mp3](https://poor-choice.com/downloads/fueled-by-pornography/tweaking-with-grandma.mp3)
-* [tweaking-with-grandma.flac](https://poor-choice.com/downloads/fueled-by-pornography/tweaking-with-grandma.flac)
-* [tweaking-with-grandma.wav](https://poor-choice.com/downloads/fueled-by-pornography/tweaking-with-grandma.wav)
+* [tweaking-with-grandma.mp3](/downloads/fueled-by-pornography/tweaking-with-grandma.mp3)
+* [tweaking-with-grandma.flac](/downloads/fueled-by-pornography/tweaking-with-grandma.flac)
+* [tweaking-with-grandma.wav](/downloads/fueled-by-pornography/tweaking-with-grandma.wav)

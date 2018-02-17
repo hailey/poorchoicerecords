@@ -3,9 +3,10 @@ title: "Submit Your Music / Content / Art"
 date: 2018-01-14T20:24:13-08:00
 draft: false
 tags: ['demo','submit']
+type: "post"
 ---
 
-Here at [Poor Choice Records](http://poor-choice.com) we are always looking for poor talent.
+Here at [Poor Choice Records](/) we are always looking for poor talent.
 
 First off if you think you are poor enough to release with us and dont need further convincing click the email link
 at the bottom of the post.

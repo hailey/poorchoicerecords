@@ -1,8 +1,8 @@
 <article itemscope itemtype="http://schema.org/CreativeWork">
   <header>
-    <h2 itemprop="name">
-      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-    </h2>
+    <div class="bandnamelist" itemprop="name">
+      <a class="bandnamelist" href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </div>
   </header>
   {{ if .Description }}
     <blockquote itemprop="headline">{{ .Description }}</blockquote>

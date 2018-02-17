@@ -1,7 +1,7 @@
 ---
 title: "Glory Hole Dinosaurs"
 date: 2018-01-06T22:19:07-08:00
-draft: false
+draft: true
 type: "bands"
 ---
 

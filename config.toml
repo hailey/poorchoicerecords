@@ -8,6 +8,7 @@ layout = "after-dark-master"
   tag = "tags"
   category = "categories"
   band = "bands"
+  album = "albums"
 
 [[menu.main]]
   name = "Home"
@@ -20,6 +21,12 @@ layout = "after-dark-master"
   weight = 2
   identifier = "band"
   url = "/band/"
+  
+  [[menu.main]]
+  name = "Albums"
+  weight = 3
+  identifier = "album"
+  url = "/album/"
   
 [[menu.main]]
   name = "Musics"
