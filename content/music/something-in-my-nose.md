@@ -17,11 +17,8 @@ should be ready sometime in the spring. Stay tuned, and keep posted for tour dat
     src="/downloads/fueled-by-pornography/something-in-my-nose.mp3"
     name="Something in my Nose"
     band="Fueled by Pornography"
+    album="Gloryhole Gape"
+    wav="/downloads/fueled-by-pornography/something-in-my-nose.wav"
+    aif="/downloads/fueled-by-pornography/something-in-my-nose.aif"
+    flac="/downloads/fueled-by-pornography/something-in-my-nose.flac"
     >}}
-
-### Downloads
-
-* [something-in-my-nose.mp3](/downloads/fueled-by-pornography/something-in-my-nose.mp3)
-* [something-in-my-nose.flac](/downloads/fueled-by-pornography/something-in-my-nose.flac)
-* [something-in-my-nose.wav](/downloads/fueled-by-pornography/something-in-my-nose.wav)
-* [something-in-my-nose.aif](/downloads/fueled-by-pornography/something-in-my-nose.aif)

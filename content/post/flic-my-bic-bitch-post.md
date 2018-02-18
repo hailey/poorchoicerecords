@@ -1,13 +1,12 @@
 ---
-title: "Flic Your Bic Bitch"
-date: 2018-02-17T04:08:41-08:00
+title: "New Song by Fueled by Pornography! - Flic My Bic Bitch"
+date: 2018-02-17T04:31:41-08:00
 draft: false
-type: "music"
+type: "post"
+tags: ["music","post","fbp","free"]
+categories: ["post","preview","news","fbp"]
 author: "The Management"
 band: "Fueled by Pornography"
-tags: ["fbp","gloryhole gape","free"]
-categories: ["fpb","gloryhole gape","preview"]
-album: "Gloryhole Gape"
 ---
 
 {{<audio
@@ -19,3 +18,5 @@ album: "Gloryhole Gape"
     aif="/downloads/fueled-by-pornography/flic-my-bic-bitch.aif"
     flac="/downloads/fueled-by-pornography/flic-my-bic-bitch.flac"
     >}}
+    
+Stay tuned for more songs from [Gloryhole Gape]({{< relref "/album/gloryhole-gape.md" >}})!

@@ -21,14 +21,29 @@ Take a listen if you dare to some pre releases for Fueled by Pornography.
 {{<audio
     src="/downloads/fueled-by-pornography/something-in-my-nose.mp3"
     name="Something in my Nose"
+    band="Fueled by Pornography"
+    album="Gloryhole Gape"
+    wav="/downloads/fueled-by-pornography/something-in-my-nose.wav"
+    aif="/downloads/fueled-by-pornography/something-in-my-nose.aif"
+    flac="/downloads/fueled-by-pornography/something-in-my-nose.flac"
     >}}
 * [Tweaking with Grandma]({{< relref "/music/tweaking-with-grandma.md" >}})
 {{<audio
     src="/downloads/fueled-by-pornography/tweaking-with-grandma.mp3"
     name="Tweaking with Grandma"
+    band="Fueled by Pornography"
+    album="Gloryhole Gape"
+    wav="/downloads/fueled-by-pornography/tweaking-with-grandma.wav"
+    aif="/downloads/fueled-by-pornography/tweaking-with-grandma.aif"
+    flac="/downloads/fueled-by-pornography/tweaking-with-grandma.flac"
     >}}
 * [Flic your bic Bitch]({{< relref "/music/flic-your-bic-bitch.md" >}})
 {{<audio
     src="/downloads/fueled-by-pornography/flic-my-bic-bitch.mp3"
     name="Flick my Bic Bitch"
+    band="Fueled by Pornography"
+    album="Gloryhole Gape"
+    wav="/downloads/fueled-by-pornography/flic-my-bic-bitch.wav"
+    aif="/downloads/fueled-by-pornography/flic-my-bic-bitch.aif"
+    flac="/downloads/fueled-by-pornography/flic-my-bic-bitch.flac"
     >}}

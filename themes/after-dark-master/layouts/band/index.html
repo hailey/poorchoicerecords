@@ -6,7 +6,7 @@
 {{ end }}
 {{ define "main" }}
   <header>
-    <h1>{{ .Title }}</h1>g
+    <h1>{{ .Title }}</h1>
   </header>
   {{ range (.Paginate (where .Data.Pages "Type" "bands")).Pages }}
     {{ partial "bands-summary.html" . }}

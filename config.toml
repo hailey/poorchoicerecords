@@ -7,8 +7,8 @@ layout = "after-dark-master"
 [taxonomies]
   tag = "tags"
   category = "categories"
-  band = "bands"
-  album = "albums"
+  bands = "band"
+  albums = "album"
 
 [[menu.main]]
   name = "Home"

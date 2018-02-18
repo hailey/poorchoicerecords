@@ -1,16 +1,47 @@
-<figure class="audioplayer">
-    {{ if .Get "band"}}
-        By: <strong>{{.Get "band"}}</strong><br />
-    {{end}}
+<!-- {{/*
+<audio
+    src="/downloads/fueled-by-pornography/yoururl.mp3"
+    name="yoururl"
+    band="Fueled by Pornography"
+    album="The Album its in!"
+    >
+    
+    TODO: implement .IsNamedParams so that <audio url/goes/here.mp3 >
+*/}}-->
+<div class="audioplayer">
     {{ with .Get "name"}}
-    Title: <strong>{{.}}</strong><br />
+    <div class="plustwo">{{.}}</div>
+    {{end}}
+    {{ with .Get "band"}}
+        <div>By: <span class="bandname">{{.}}</span></div>
+    {{end}}
+    {{ with .Get "album"}}
+    <div>Album: <span class="albumname">{{.}}</span></div>
     {{end}}
     <audio controls>
-        <source src="{{ .Get "src" }}">
+        {{ with .Get "ogg"}}
+           <source src="{{ .}}" type="audio/ogg">
+         {{end}}
+        <source src="{{ .Get "src" }}" type="audio/mpeg">
+        {{ with .Get "wav"}}
+        <source src="{{.}}" type="audio/wav">
+        {{end}}
             Your browser does not seem to support the audio tag... hrm!
     </audio>
     {{ if .Get "name"}}
-    <br />
-    <div class="download-link">Download: <a href="{{.Get "src" }}">{{.Get "name"}}</a></div>
+    <div class="download-link">Download: <a href="{{.Get "src" }}">Mp3</a> 
+        {{ with .Get "wav"}}
+           <a href="{{.}}">WAV</a>
+         {{end}}
+        {{ with .Get "flac"}}
+           <a href="{{.}}">flac</a>
+         {{end}}
+        {{ with .Get "ogg"}}
+           <a href="{{.}}">ogg</a>
+         {{end}}
+        {{ with .Get "aif"}}
+           <a href="{{.}}">aif</a>
+         {{end}}
+    </div>
     {{end}}
-</figure>
+</div>

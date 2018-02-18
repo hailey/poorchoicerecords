@@ -2,7 +2,7 @@
 title: "The Bulging Peanuts"
 date: 2018-01-06T22:19:07-08:00
 draft: false
-type: "bands"
+type: "band"
 band: "The Bulging Peanuts"
 tags: ["band"]
 categories: ["band","band info"]

@@ -10,17 +10,17 @@ categories: ["fpb","gloryhole gape","preview"]
 album: "Gloryhole Gape"
 
 ---
-Check out **[Tweaking with Grandma](/downloads/fueled-by-pornography/tweaking-with-grandma.mp3)** by [Fueled by Pornography](/band/fueled-by-pornography/) from
-their upoming album [Gloryhole Gape]({{< relref "/album/gloryhole-gape.md" >}}).
-
 {{<audio
     src="/downloads/fueled-by-pornography/tweaking-with-grandma.mp3"
     name="Tweaking with Grandma"
     band="Fueled by Pornography"
+    album="Gloryhole Gape"
+    wav="/downloads/fueled-by-pornography/tweaking-with-grandma.wav"
+    aif="/downloads/fueled-by-pornography/tweaking-with-grandma.aif"
+    flac="/downloads/fueled-by-pornography/tweaking-with-grandma.flac"
     >}}
 
-### Downloads
-
-* [tweaking-with-grandma.mp3](/downloads/fueled-by-pornography/tweaking-with-grandma.mp3)
-* [tweaking-with-grandma.flac](/downloads/fueled-by-pornography/tweaking-with-grandma.flac)
-* [tweaking-with-grandma.wav](/downloads/fueled-by-pornography/tweaking-with-grandma.wav)
+Stay tuned for more songs by [Fueled by Pornography](/band/fueled-by-pornography/) on their
+upcoming album [Gloryhole Gape]({{< relref "/album/gloryhole-gape.md" >}}) by
+[Fueled by Pornography](/band/fueled-by-pornography/) from their upoming album
+[Gloryhole Gape]({{< relref "/album/gloryhole-gape.md" >}}).
