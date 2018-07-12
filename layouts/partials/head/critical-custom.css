@@ -1,0 +1,21 @@
+.dark { background-color: #cc0066;}
+.fontstrong {font-size:1.2em;}
+.fontsmall {font-size:.6em;}
+.bandname {font-size:1.5em; color: #E48F77;}
+.bandnamelist {font-size:1.3em; color: #E48F77;}
+.albumname {color: #00cc33;}
+.audioplayer {
+    border-left: 10px solid #ff66b3;
+    background-color: #800040;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 25px;
+    box-shadow: 8px 4px;
+}
+.plustwo {
+    font-size: 1.6em;
+    color: #00cc66;
+}
+.fusfb {
+    
+}

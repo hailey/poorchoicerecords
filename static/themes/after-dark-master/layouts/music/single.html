@@ -1,0 +1,18 @@
+{{ define "title" -}}
+  {{ .Title }} | {{ .Site.Title }}
+{{- end }}
+{{ define "header" }}
+  {{ partial "menu.html" . }}
+{{ end }}
+{{ define "main" }}
+  <header>
+    <h1>{{ .Title }}</h1>
+    <div class="bandname">by {{ .Params.band }}</div>
+  </header>
+  {{ .Content }}
+
+{{ end }}
+{{ define "footer" }}
+  {{ partial "post/related-content.html" . }}
+  {{ partial "powered-by.html" . }}
+{{ end }}

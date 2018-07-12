@@ -16,6 +16,5 @@ industry famous people excites you then we aren't for you.
 
 If you don't give a fuck and play music without knowing how to use your instrument, send us a demo to
 
-+ [submit at poor-choice dot com](mailto:submit@poor-choice.com) - non demo artist type shit should be sent here.
-+ [demo at poor-choice dot com](mailto:demo@poor-choice.com) - Demos / links to youtubes/mp3's should be sent here.
-
++ [submit at pimp-inc dot com](mailto:submit@pimp-inc.com) - non demo artist type shit should be sent here.
++ [demo at pimp-inc dot com](mailto:demo@pimp-inc.com) - Demos / links to youtubes/mp3's should be sent here.

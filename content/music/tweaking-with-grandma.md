@@ -8,17 +8,17 @@ band: "Fueled by Pornography"
 tags: ["fbp","gloryhole gape","free"]
 categories: ["fpb","gloryhole gape","preview"]
 album: "Gloryhole Gape"
-
 ---
-{{<audio
-    src="/downloads/fueled-by-pornography/tweaking-with-grandma.mp3"
-    name="Tweaking with Grandma"
-    band="Fueled by Pornography"
-    album="Gloryhole Gape"
-    wav="/downloads/fueled-by-pornography/tweaking-with-grandma.wav"
-    aif="/downloads/fueled-by-pornography/tweaking-with-grandma.aif"
-    flac="/downloads/fueled-by-pornography/tweaking-with-grandma.flac"
+
+{{<audio2
+    author="Fueled by Pornography"
+    title="Tweaking with Grandma"
+    id="twg"
+    img="/images/TwG-SingleConcept-Web.jpg"
+    srcmp3="/audio/fueled-by-pornography/tweaking-with-grandma.mp3"
+    srcogg="/audio/fueled-by-pornography/tweaking-with-grandma.ogg"
     >}}
+    
 
 Stay tuned for more songs by [Fueled by Pornography](/band/fueled-by-pornography/) on their
 upcoming album [Gloryhole Gape]({{< relref "/album/gloryhole-gape.md" >}}) by

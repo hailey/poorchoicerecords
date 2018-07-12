@@ -8,15 +8,15 @@ categories: ["post","preview","news","fbp"]
 author: "The Management"
 band: "Fueled by Pornography"
 ---
-
-{{<audio
-    src="/downloads/fueled-by-pornography/flic-my-bic-bitch.mp3"
-    name="Flick my Bic Bitch"
-    band="Fueled by Pornography"
-    album="Gloryhole Gape"
-    wav="/downloads/fueled-by-pornography/flic-my-bic-bitch.wav"
-    aif="/downloads/fueled-by-pornography/flic-my-bic-bitch.aif"
-    flac="/downloads/fueled-by-pornography/flic-my-bic-bitch.flac"
-    >}}
+    
+{{<audioplyr id="fmbbp" playlist="false">}}
+    {{<song
+        title="Flic my Bic Bitch"
+        author="Fueled by Pornography"
+        img="/images/p1.jpg"
+        srcmp3="/downloads/fueled-by-pornography/flic-my-bic-bitch.mp3"
+        srcogg="/downloads/fueled-by-pornography/flic-my-bic-bitch.ogg"
+        >}}
+{{</audioplyr>}}
     
 Stay tuned for more songs from [Gloryhole Gape]({{< relref "/album/gloryhole-gape.md" >}})!

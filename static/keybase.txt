@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/haileyxb
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://poor-choice.com
+  * I am haileyxb (https://keybase.io/haileyxb) on keybase.
+  * I have a public key ASDnbgbq1IUP4Yn5kd2BNGkZYfv6Il09tSNVua7Ag4Ihbgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e76e06ead4850fe189f991dd8134691961fbfa225d3db52355b9aec08382216e0a",
+      "host": "keybase.io",
+      "kid": "0120e76e06ead4850fe189f991dd8134691961fbfa225d3db52355b9aec08382216e0a",
+      "uid": "542895879a841b69c9f52a5b54c3d919",
+      "username": "haileyxb"
+    },
+    "merkle_root": {
+      "ctime": 1519442402,
+      "hash": "d0db0ad7af84c8c66d715233da415b0d8fce59681c5c0eb3123e5609e50eab13fa9b5dbee1fa0c6e346b40088fcd35b3a201b78a4e15d4e0af07557c8276df10",
+      "hash_meta": "9832eade21f83dda02de78c9faa5a0cf1ff86122aee280052e2b7f5a3ee93453",
+      "seqno": 2145612
+    },
+    "service": {
+      "hostname": "poor-choice.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.44"
+  },
+  "ctime": 1519442540,
+  "expire_in": 504576000,
+  "prev": "56c8139ed304a5b12d2a714166b6261d0f512ad772a1acb0f56b8fc8aee2fa64",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg524G6tSFD+GJ+ZHdgTRpGWH7+iJdPbUjVbmuwIOCIW4Kp3BheWxvYWTFA0h7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZTc2ZTA2ZWFkNDg1MGZlMTg5Zjk5MWRkODEzNDY5MTk2MWZiZmEyMjVkM2RiNTIzNTViOWFlYzA4MzgyMjE2ZTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZTc2ZTA2ZWFkNDg1MGZlMTg5Zjk5MWRkODEzNDY5MTk2MWZiZmEyMjVkM2RiNTIzNTViOWFlYzA4MzgyMjE2ZTBhIiwidWlkIjoiNTQyODk1ODc5YTg0MWI2OWM5ZjUyYTViNTRjM2Q5MTkiLCJ1c2VybmFtZSI6ImhhaWxleXhiIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTE5NDQyNDAyLCJoYXNoIjoiZDBkYjBhZDdhZjg0YzhjNjZkNzE1MjMzZGE0MTViMGQ4ZmNlNTk2ODFjNWMwZWIzMTIzZTU2MDllNTBlYWIxM2ZhOWI1ZGJlZTFmYTBjNmUzNDZiNDAwODhmY2QzNWIzYTIwMWI3OGE0ZTE1ZDRlMGFmMDc1NTdjODI3NmRmMTAiLCJoYXNoX21ldGEiOiI5ODMyZWFkZTIxZjgzZGRhMDJkZTc4YzlmYWE1YTBjZjFmZjg2MTIyYWVlMjgwMDUyZTJiN2Y1YTNlZTkzNDUzIiwic2Vxbm8iOjIxNDU2MTJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoicG9vci1jaG9pY2UuY29tIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuNDQifSwiY3RpbWUiOjE1MTk0NDI1NDAsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiNTZjODEzOWVkMzA0YTViMTJkMmE3MTQxNjZiNjI2MWQwZjUxMmFkNzcyYTFhY2IwZjU2YjhmYzhhZWUyZmE2NCIsInNlcW5vIjoxMywidGFnIjoic2lnbmF0dXJlIn2jc2lnxECJHWKVEalIbWUeqd4ArBkX+2+AscKVUnV9wMY84XZ7TRCSKFBlE2Lz6mI1n80sryGskmKbbDGN00PvdtDz87kIqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgcAfJ9IVD2nRT3K8xwV3xI03OuUOeMqUo8v+8yjnNt/2jdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/haileyxb
+
+==================================================================

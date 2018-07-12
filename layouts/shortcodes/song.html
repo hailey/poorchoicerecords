@@ -1,0 +1,15 @@
+{{- $title := .Get "title" -}}
+{{- $author := .Get "author" -}}
+{{- $img := .Get "img" -}}
+{{- $srcmp3 := .Get "srcmp3" -}}
+{{- $srcogg := .Get "srcogg" -}}
+{{- with .Parent -}}
+<ul>
+             <li class="xtitle">{{$title}}</li>
+             <li class="xauthor">{{$author}}</li>
+             <li class="ximage">{{$img}}</li>
+             <li class="xsources_mp3">{{$srcmp3}}</li>
+             <li class="xsources_ogg">{{$srcogg}}</li>
+             <li class="xcategory">ALL CATEGORIES</li>
+</ul>
+{{ end }}

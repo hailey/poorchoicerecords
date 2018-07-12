@@ -1,4 +1,4 @@
-<img src="/poorchoice-try-2.png" alt="Poor Choice Records Logo"/>
+<img src="/poorchoicerecord-title.png" alt="Poor Choice Records Logo"/>
 {{ if ne .Site.Params.show_menu false }}
   <nav itemscope itemtype="http://schema.org/SiteNavigationElement">
     {{ $currentNode := . }}
@@ -7,3 +7,11 @@
     {{ end }}
   </nav>
 {{ end }}
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0&appId=502578706425575&autoLogAppEvents=1';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>

@@ -1,0 +1,51 @@
+<script>
+		jQuery(function() {
+			jQuery('#audio2_html5_{{ $.Get "id" }}').audio2_html5({
+				skin: 'whiteControllers',
+				autoPlay:false,
+				initialVolume:0.75,
+				responsive:true,
+        showBuyBut:false,
+        showLyricsBut:false,
+        showSearchArea:false,
+        shuffle:false,
+				playerBg: '#800040',
+        googleTrackingCode: 'UA-3546064-9',
+        showPlaylist: false,
+        showPlaylistOnInit: false,
+        showCategories: false,
+        showShuffleBut: false,
+        songTitleColor: '#00cc66',
+        songAuthorColor: '#E48F77',
+        bufferEmptyColor: '#ff66b3',
+        bufferFullColor: '#ff99d8',
+			});
+
+
+		});
+</script>
+<div class="audio2_html5">
+             <audio id="audio2_html5_{{.Get "id" }}" preload="metadata">
+             <div class="xaudioplaylist">
+             <ul>
+             {{ with .Get "title"}}
+                          <li class="xtitle">{{.}}</li>
+             {{ end }}
+                          {{ with .Get "author"}}
+                                  <li class="xauthor">{{.}}</li>
+                          {{ end }}
+                          {{ with .Get "img"}}
+                                  <li class="ximage">{{.}}</li>
+                          {{ end }}
+                          {{ with .Get "srcmp3"}}
+                                  <li class="xsources_mp3">{{.}}</li>
+                          {{ end }}
+                          {{ with .Get "srcogg"}}
+                                  <li class="xsources_ogg">{{.}}</li>
+                          {{ end }}
+                           </ul>
+                          </div>
+                      No HTML5 audio playback capabilities for this browser. Use <a href="https://www.google.com/intl/en/chrome/browser/">Chrome Browser!</a>
+                    </audio>
+             </div>
+       		<!--<br style="clear:both;">-->

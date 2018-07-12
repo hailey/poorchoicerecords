@@ -1,0 +1,35 @@
+<script>
+		jQuery(function() {
+			jQuery('#audio2_html5_{{ $.Get "id" }}').audio2_html5({
+				skin: 'whiteControllers',
+				autoPlay:false,
+				initialVolume:0.75,
+				responsive:true,
+        showBuyBut:false,
+        showLyricsBut:false,
+        showSearchArea:true,
+        shuffle:false,
+				playerBg: '#800040',
+        googleTrackingCode: 'UA-3546064-9',
+        showPlaylist: false,
+        showPlaylistOnInit: true,
+        showCategories: false,
+        showShuffleBut: true,
+        songTitleColor: '#00cc66',
+        songAuthorColor: '#E48F77',
+        bufferEmptyColor: '#ff66b3',
+        bufferFullColor: '#ff99d8',
+			});
+
+
+		});
+</script>
+<div class="audio2_html5">
+        <audio id="audio2_html5_{{.Get "id" }}" preload="metadata">
+        <div class="xaudioplaylist">
+             {{.Inner}}
+	</div>
+        No HTML5 audio playback capabilities for this browser. Use <a href="https://www.google.com/intl/en/chrome/browser/">Chrome Browser!</a>
+        </audio>
+</div>
+       		<!--<br style="clear:both;">-->

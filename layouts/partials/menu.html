@@ -1,0 +1,17 @@
+<img src="/poorchoicerecord-Gen1-sm.png" alt="Poor Choice Records Logo"/>
+{{ if ne .Site.Params.show_menu false }}
+  <nav itemscope itemtype="http://schema.org/SiteNavigationElement">
+    {{ $currentNode := . }}
+    {{ range .Site.Menus.main }}
+      <a itemprop="url" class="{{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }}active{{end}}" href="{{ .URL }}"><span itemprop="name">{{ .Name }}</span></a>
+    {{ end }}
+  </nav>
+{{ end }}
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0&appId=502578706425575&autoLogAppEvents=1';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>

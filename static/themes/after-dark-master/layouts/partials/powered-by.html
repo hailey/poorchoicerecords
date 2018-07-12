@@ -1,0 +1,22 @@
+{{ if ne .Site.Params.powered_by false }}
+  <p class="muted">
+    Designed in house by Poor Choice. - If you're here, you made a poor choice. 
+  </p>
+{{ end }}
+<div class="fontsmall">Think you are ready to make a poor choice? Then...</div>
+<div class="fontstrong">
+  <a href="/post/submit-your-content/">Submit your Content to Poor Choice</a>
+</div>
+<div class="muted small">
+    Generated {{ .Date }}
+</div>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-3546064-9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-3546064-9');
+</script>
