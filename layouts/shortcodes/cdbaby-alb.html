@@ -1,0 +1,14 @@
+<!--
+
+<a href="http://store.cdbaby.com/cd/ambereye1" target="cdbaby"
+style="display:inline-block;background:url(http://CDBaby.name/n/d/ndalb01383161_small.jpg) 117px 9px no-repeat, url(https://content.cdbaby.com/img/links/link-artwork-horz-dark-buy-album.png) no-repeat;background-size:100px, 100%;width:225px;height:120px;"
+title="Amber Eye & the Weirdos: Holocaust Train"
+alt="Amber Eye & the Weirdos: Holocaust Train" ></a>
+
+<cdbaby-alb src="http://store.cdbaby.com/cd/ambereye1" cover="http://CDBaby.name/n/d/ndalb01383161_small.jpg"
+            title="Amber Eye & the Weirdos: Holocaust Train" >
+-->
+
+<a href="{{ .Get "src" }}" target="cdbaby"
+style="display:inline-block;background:url({{ .Get "cover" }}) 117px 9px no-repeat, url(https://content.cdbaby.com/img/links/link-artwork-horz-dark-buy-album.png) no-repeat;background-size:100px, 100%;width:225px;height:120px;"
+title="{{ .Get "title" }}" alt="{{ .Get "title" }}" ></a>
