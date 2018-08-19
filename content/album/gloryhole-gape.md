@@ -9,7 +9,7 @@ tags: ["fbp","gloryhole gape","free","album"]
 categories: ["fpb","gloryhole gape","preview","album"]
 album: "Gloryhole Gape"
 ---
-**Gloryhole Gape** is [Fueled By Pornography's]({{< relref "/band/fueled-by-pornography.md" >}}) their 5th album and their
+**Gloryhole Gape** is [Fueled By Pornography's]({{< relref "/band/fueled-by-pornography.md" >}}) 5th album and their
 first album with [Poor Choice Records](/). They've been around forever in the underground
 now its time for the public to listen. Check out these awesome sample songs to hold you over till the album hits
 the digital shelfz.

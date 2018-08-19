@@ -7,7 +7,6 @@ author: "The Management"
 band: "Fueled by Pornography"
 tags: ["fbp","gloryhole gape","free"]
 categories: ["fpb","gloryhole gape","preview"]
-album: "Gloryhole Gape"
 ---
 {{<audioplyr id="fybb" playlist="false">}}
     {{<song

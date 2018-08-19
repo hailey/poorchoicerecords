@@ -1,7 +1,7 @@
 ---
 title: "Amber Eye & the Weirdos"
 date: 2018-07-10T13:34:53-07:00
-draft: true
+draft: false
 type: "band"
 band: "Amber Eye & the Weirdos"
 author: "Amber Eye"
@@ -19,7 +19,8 @@ From the desert, from the sea. From the places that should not be. An eclectic a
 {{<cdbaby-alb src="https://store.cdbaby.com/cd/ambereye1" cover="http://CDBaby.name/n/d/ndalb01383161_small.jpg"
             title="Amber Eye & the Weirdos: Holocaust Train" >}}
 
-{{<spotify src="spotify:artist:3XY5JT1JIBYM5vuilLuKDW" theme="dark">}} {{<likeusfb src="https://poor-choice.com/band/amber-eye-andthe-weirdos/" >}}
+{{<spotify src="spotify:artist:3XY5JT1JIBYM5vuilLuKDW" theme="dark">}}
+{{<likeusfb src="https://poor-choice.com/band/amber-eye-andthe-weirdos/" >}}
 
 {{<fuof src="Amber-Eye-The-Weirdos-257564614803434" >}}
  

@@ -5,7 +5,6 @@ draft: false
 type: "music"
 band: "Friends of Nothing"
 tags: ["free","friends of nothing"]
-album: "Night Sessions"
 categories: ["singles","free","friends of nothing"]
 author: "The Management"
 ---

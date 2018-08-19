@@ -7,8 +7,6 @@ author: "The Management"
 band: "Fueled by Pornography"
 tags: ["fbp","gloryhole gape","free"]
 categories: ["fpb","gloryhole gape","preview"]
-album: "Gloryhole Gape"
-
 ---
 **Something in my nose** is a brisk 1 minute rage. This is part of the upcoming album [Gloryhole Gape]({{< relref "/album/gloryhole-gape.md" >}}) which
 should be ready sometime in the spring. Stay tuned, and keep posted for tour dates.
