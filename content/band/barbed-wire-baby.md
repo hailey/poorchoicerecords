@@ -10,5 +10,8 @@ categories: ["band","band info"]
 ---
 
 Barbed Wire Babys is a brand new horrorcore band.
- 
- ## Stay posted for more.
+**Brutal semi-industrial music not fit for human ears.**
+
+> "This is one of our favorite new bands. Absolute garbage. But I like it." says **Ned Nothing**
+
+We will be keeping them captive in our basement while they make music. We can do this now we're in europe.
